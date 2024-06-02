@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    margin-bottom: 50px;
+}
+.card-img-top{
+    width: 50% !important;
+    aspect-ratio: 1/1;
+    /* height: 50% !important; */
+    margin: 0 auto;
+}
+.card{
+    color: black;
+    width: 18rem !important;
+    height: 390px ;
+}
+
